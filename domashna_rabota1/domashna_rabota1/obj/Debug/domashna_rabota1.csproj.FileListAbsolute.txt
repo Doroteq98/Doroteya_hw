@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\bin\Debug\domashna_rabota1.exe.config
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\bin\Debug\domashna_rabota1.exe
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\bin\Debug\domashna_rabota1.pdb
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\obj\Debug\domashna_rabota1.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\obj\Debug\domashna_rabota1.Form1.resources
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\obj\Debug\domashna_rabota1.Properties.Resources.resources
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\obj\Debug\domashna_rabota1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\obj\Debug\domashna_rabota1.exe
+C:\Users\hp\source\repos\domashna_rabota1\domashna_rabota1\obj\Debug\domashna_rabota1.pdb

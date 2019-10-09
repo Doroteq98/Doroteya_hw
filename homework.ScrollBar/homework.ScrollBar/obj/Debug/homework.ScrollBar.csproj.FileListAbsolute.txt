@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\bin\Debug\homework.ScrollBar.exe.config
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\bin\Debug\homework.ScrollBar.exe
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\bin\Debug\homework.ScrollBar.pdb
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\obj\Debug\homework.ScrollBar.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\obj\Debug\homework.ScrollBar.Form1.resources
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\obj\Debug\homework.ScrollBar.Properties.Resources.resources
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\obj\Debug\homework.ScrollBar.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\obj\Debug\homework.ScrollBar.exe
+C:\Users\hp\source\repos\homework.ScrollBar\homework.ScrollBar\obj\Debug\homework.ScrollBar.pdb

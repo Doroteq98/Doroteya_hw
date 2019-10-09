@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\homework2.2\homework2.2\bin\Debug\homework2.2.exe.config
+C:\Users\hp\source\repos\homework2.2\homework2.2\bin\Debug\homework2.2.exe
+C:\Users\hp\source\repos\homework2.2\homework2.2\bin\Debug\homework2.2.pdb
+C:\Users\hp\source\repos\homework2.2\homework2.2\obj\Debug\homework2.2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\homework2.2\homework2.2\obj\Debug\homework2._2.Form1.resources
+C:\Users\hp\source\repos\homework2.2\homework2.2\obj\Debug\homework2._2.Properties.Resources.resources
+C:\Users\hp\source\repos\homework2.2\homework2.2\obj\Debug\homework2.2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\homework2.2\homework2.2\obj\Debug\homework2.2.exe
+C:\Users\hp\source\repos\homework2.2\homework2.2\obj\Debug\homework2.2.pdb

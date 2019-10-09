@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\bin\Debug\homework.upr6.exe.config
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\bin\Debug\homework.upr6.exe
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\bin\Debug\homework.upr6.pdb
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\obj\Debug\homework.upr6.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\obj\Debug\homework.upr6.Form1.resources
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\obj\Debug\homework.upr6.Properties.Resources.resources
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\obj\Debug\homework.upr6.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\obj\Debug\homework.upr6.exe
+C:\Users\hp\source\repos\homework.upr6\homework.upr6\obj\Debug\homework.upr6.pdb

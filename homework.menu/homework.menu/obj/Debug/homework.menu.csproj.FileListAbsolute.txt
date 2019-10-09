@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\homework.menu\homework.menu\bin\Debug\homework.menu.exe.config
+C:\Users\hp\source\repos\homework.menu\homework.menu\bin\Debug\homework.menu.exe
+C:\Users\hp\source\repos\homework.menu\homework.menu\bin\Debug\homework.menu.pdb
+C:\Users\hp\source\repos\homework.menu\homework.menu\obj\Debug\homework.menu.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\homework.menu\homework.menu\obj\Debug\homework.menu.Form1.resources
+C:\Users\hp\source\repos\homework.menu\homework.menu\obj\Debug\homework.menu.Properties.Resources.resources
+C:\Users\hp\source\repos\homework.menu\homework.menu\obj\Debug\homework.menu.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\homework.menu\homework.menu\obj\Debug\homework.menu.exe
+C:\Users\hp\source\repos\homework.menu\homework.menu\obj\Debug\homework.menu.pdb
